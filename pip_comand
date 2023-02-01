@@ -1,0 +1,6 @@
+pip install pyTelegramBotAPI
+pip install mysql-connector-python
+pip install keyboa
+pip install gspread
+pip install oauth2client
+pip install pandas
